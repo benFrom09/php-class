@@ -1,0 +1,19 @@
+{
+    "name": "ben09/php-class",
+    "description":"php usefull classes",
+    "authors": [
+        {
+            "name": "benFrom09",
+            "email": "ben09.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ben09\\":"./Ben09"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
